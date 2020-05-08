@@ -11,5 +11,6 @@ import 'package:meta/meta.dart';
 ///   return TODO("Implement finding the maximum.");
 /// }
 /// ```
+// ignore: non_constant_identifier_names
 @alwaysThrows
 dynamic TODO([String message]) => throw UnimplementedError(message);
