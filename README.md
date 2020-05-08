@@ -6,8 +6,10 @@ int maximumOf(List<int> numbers) {
     if (numbers.isEmpty) {
         return TODO("Handle empty list of numbers.");
     }
-    return TODO("Implement finding the maximum.");
+    TODO("Implement finding the maximum.");
 }
 ```
 
-When executed, it just throws an `UnimplementedError`. Additionally, Dart's analyzer also highlights where you use this function so you can easily find all calls to `TODO`.
+It can be used as a statement or expression for any type.
+When executed, it just throws an `UnimplementedError`.
+Additionally, Dart's analyzer also highlights where you use this function so you can easily find all calls to `TODO` later.
