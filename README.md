@@ -9,3 +9,5 @@ int maximumOf(List<int> numbers) {
     return TODO("Implement finding the maximum.");
 }
 ```
+
+When executed, it just throws an `UnimplementedError`. Additionally, Dart's analyzer also highlights where you use this function so you can easily find all calls to `TODO`.
