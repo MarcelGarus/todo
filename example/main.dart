@@ -4,5 +4,5 @@ int maximumOf(List<int> numbers) {
   if (numbers.isEmpty) {
     return TODO("Handle empty list of numbers.");
   }
-  TODO("Implement finding the maximum.");
+  TODO("Find the maximum.");
 }
