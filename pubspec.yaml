@@ -1,6 +1,6 @@
 name: todo
 description: "Offers a todo() methdo for indicating a certain part of your project has not been implemented yet."
-version: 0.1.0
+version: 1.0.0
 
 dependencies:
   meta: ^1.1.0
