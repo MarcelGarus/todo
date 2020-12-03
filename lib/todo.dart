@@ -1,4 +1,4 @@
-import 'package:meta/meta.dart';
+// ignore_for_file: todo
 
 /// Indicates that the code that should normally be executed at this point is
 /// not implemented yet.
@@ -6,11 +6,10 @@ import 'package:meta/meta.dart';
 /// ```
 /// int maximumOf(List<int> numbers) {
 ///   if (numbers.isEmpty) {
-///     return TODO("Think about what to return here.");
+///     TODO("Think about what to return here.");
 ///   }
-///   return TODO("Implement finding the maximum.");
+///   TODO("Implement finding the maximum.");
 /// }
 /// ```
 // ignore: non_constant_identifier_names
-@alwaysThrows
-dynamic TODO([String message]) => throw UnimplementedError(message);
+Never TODO([String? message]) => throw UnimplementedError(message);
