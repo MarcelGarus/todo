@@ -1,6 +1,6 @@
 name: todo
 description: "🚧 Offers a TODO() method to indicate that code has not been implemented yet."
-version: 2.0.0
+version: 2.0.1
 repository: https://github.com/marcelgarus/todo
 
 environment:
