@@ -1,6 +1,10 @@
+# 2.0.0
+
+* Publish stable null-safety.
+
 # 2.0.0-nullsafety.0 – 2020-05-08
 
-* Migrate to null safety.
+* Migrate to null-safety.
 * `TODO`'s return type is now `Never`.
 * Don't depend on `meta` anymore.
 
